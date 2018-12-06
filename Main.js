@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDom from 'react-dom'
-import App from './RestAPI.js'
+import App from './AddMullAddDiv.js'
 
 
 ReactDom.render(<App/>,document.getElementById('content'))
